@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "GenAI and Human-AI Relations"
+title                    : "Human-AI Partnering - Tools, Agents and Relations"
 title_separator          : "-"
 name                     : &name "Todd JB Blayone"
 description              : &description "personal description"
