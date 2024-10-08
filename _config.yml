@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Dr Todd JB Blayone: Exploring Human-AI Relations"
+title                    : "GenAI and Human-AI Relations"
 title_separator          : "-"
 name                     : &name "Todd JB Blayone"
 description              : &description "personal description"
